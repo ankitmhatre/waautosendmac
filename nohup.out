@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/ankit/projects/waautosendmac/src/control.py", line 86, in <module>
+    main(sys.argv[1:])
+  File "/Users/ankit/projects/waautosendmac/src/control.py", line 53, in main
+    now = datetime.now()
+UnboundLocalError: local variable 'datetime' referenced before assignment
